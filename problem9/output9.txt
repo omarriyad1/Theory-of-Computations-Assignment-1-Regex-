@@ -1,0 +1,17 @@
+Problem 1
+Number of URLs: 1
+URL: https://www.example.com/
+Line: 1
+start index: 36, end index: 59
+Number of URLs: 2
+URL: https://blog.example.com.
+Line: 2
+start index: 55, end index: 79
+Number of URLs: 3
+URL: https://twitter.com/example.
+Line: 3
+start index: 35, end index: 62
+Number of URLs: 4
+URL: https://www.example.com/example1/example2.
+Line: 4
+start index: 43, end index: 84

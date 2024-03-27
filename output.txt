@@ -1,0 +1,57 @@
+1
+valid email
+invalid email
+invalid email
+x
+2
+valid phone number
+valid phone number
+valid phone number
+invalid phone number
+invalid phone number
+x
+3
+valid date
+invalid date
+invalid date
+x
+4
+valid IP address
+invalid IP address
+x
+5
+valid C++ variable name
+valid C++ variable name
+valid C++ variable name
+invalid C++ variable name
+invalid C++ variable name
+invalid C++ variable name
+x
+6
+invalid string, has 3 consecutive b’s
+invalid string, has 3 consecutive b’s
+valid string
+x
+7
+
+*aabaaaaabaa*
+number of matched substrings: 1
+matched substring: aabaaaaabaa
+start index: 0, end index: 11
+x
+8
+The cat is cute
+number of matched words: 2
+matched word: The
+start index: 0, end index: 3matched word: cat
+start index: 4, end index: 7
+an apple
+No word matches
+x
+9
+x
+10
+valid mathematical expression
+valid mathematical expression
+invalid mathematical expression
+x

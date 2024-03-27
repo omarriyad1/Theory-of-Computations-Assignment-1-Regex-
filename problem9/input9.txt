@@ -1,0 +1,3 @@
+9
+C:\problem9file.txt
+end
